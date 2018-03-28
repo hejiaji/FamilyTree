@@ -1,0 +1,174 @@
+[
+  {
+    "name": "King Shan",
+    "gender": "Male",
+    "partner": "Queen Anga"
+  },
+  {
+    "name": "Queen Anga",
+    "gender": "Female",
+    "partner": "King Shan"
+  },
+  {
+    "name": "Ish",
+    "gender": "Male",
+    "father": "King Shan",
+    "mother": "Queen Anga"
+  },
+  {
+    "name": "Chit",
+    "gender": "Male",
+    "partner": "Ambi",
+    "father": "King Shan",
+    "mother": "Queen Anga"
+  },
+  {
+    "name": "Ambi",
+    "gender": "Female",
+    "partner": "Chit"
+  },
+  {
+    "name": "Drita",
+    "gender": "Male",
+    "partner": "Jaya",
+    "father": "Chit",
+    "mother": "Ambi"
+  },
+  {
+    "name": "Jaya",
+    "gender": "Female",
+    "partner": "Drita"
+  },
+  {
+    "name": "Vrita",
+    "gender": "Male",
+    "father": "Chit",
+    "mother": "Ambi"
+  },
+  {
+    "name": "Jata",
+    "gender": "Male",
+    "father": "Drita",
+    "mother": "Jaya"
+  },
+  {
+    "name": "Driya",
+    "gender": "Female",
+    "partner": "Mnu",
+    "father": "Drita",
+    "mother": "Jaya"
+  },
+  {
+    "name": "Mnu",
+    "gender": "Male",
+    "partner": "Driya"
+  },
+  {
+    "name": "Vich",
+    "gender": "Male",
+    "partner": "Lika",
+    "father": "King Shan",
+    "mother": "Queen Anga"
+  },
+  {
+    "name": "Lika",
+    "gender": "Female",
+    "partner": "Vich"
+  },
+  {
+    "name": "Vila",
+    "gender": "Male",
+    "partner": "Jnki",
+    "father": "Vich",
+    "mother": "Lika"
+  },
+  {
+    "name": "Jnki",
+    "gender": "Female",
+    "partner": "Vila"
+  },
+  {
+    "name": "Chika",
+    "gender": "Female",
+    "partner": "Kpila",
+    "father": "Vich",
+    "mother": "Lika"
+  },
+  {
+    "name": "Kpila",
+    "gender": "Male",
+    "partner": "Chika"
+  },
+  {
+    "name": "Lavnya",
+    "gender": "Female",
+    "partner": "Gru",
+    "father": "Vila",
+    "mother": "Jnki"
+  },
+  {
+    "name": "Gru",
+    "gender": "Male",
+    "partner": "Lavnya"
+  },
+  {
+    "name": "Satya",
+    "gender": "Female",
+    "partner": "Vyan",
+    "father": "King Shan",
+    "mother": "Queen Anga"
+  },
+  {
+    "name": "Vyan",
+    "gender": "Male",
+    "partner": "Satya"
+  },
+  {
+    "name": "Satvy",
+    "gender": "Female",
+    "partner": "Asva",
+    "father": "Vyan",
+    "mother": "Satya"
+  },
+  {
+    "name": "Asva",
+    "gender": "Male",
+    "partner": "Satvy"
+  },
+  {
+    "name": "Savya",
+    "gender": "Male",
+    "partner": "Krpi",
+    "father": "Vyan",
+    "mother": "Satya"
+  },
+  {
+    "name": "Krpi",
+    "gender": "Female",
+    "partner": "Savya"
+  },
+  {
+    "name": "Kriya",
+    "gender": "Male",
+    "father": "Savya",
+    "mother": "Krpi"
+  },
+  {
+    "name": "Saayan",
+    "gender": "Male",
+    "partner": "Mina",
+    "father": "Vyan",
+    "mother": "Satya"
+  },
+  {
+    "name": "Mina",
+    "gender": "Female",
+    "partner": "Saayan"
+  },
+  {
+    "name": "Misa",
+    "gender": "Male",
+    "father": "Saayan",
+    "mother": "Mina"
+  }
+]
